@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/10 15:04:35.000.155,=C:\Users\daiwenzong\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/10/10 15:04:48.000.684,=C:\Users\daiwenzong\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/10/11 09:32:24.000.909,C:\Users\daiwenzong\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\daiwenzong\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2017/10/17 12:39:11.000.178,=D:\QQLogs\42634690\FileRecv\Projects\Unit2.cpp</Transaction>
+    <Transaction>2017/10/23 17:43:53.000.096,=D:\QQLogs\42634690\FileRecv\Projects\Unit3.cpp</Transaction>
+    <Transaction>2017/10/23 19:20:16.000.317,=D:\QQLogs\42634690\FileRecv\Projects\image_DXT.c</Transaction>
+    <Transaction>2017/10/23 19:20:16.000.343,=D:\QQLogs\42634690\FileRecv\Projects\SOIL.c</Transaction>
+    <Transaction>2017/10/23 19:20:16.000.364,=D:\QQLogs\42634690\FileRecv\Projects\stb_image_aug.c</Transaction>
+    <Transaction>2017/10/23 19:20:16.000.330,=D:\QQLogs\42634690\FileRecv\Projects\image_helper.c</Transaction>
+    <Transaction>2017/10/23 19:21:07.000.063,D:\QQLogs\42634690\FileRecv\Projects\image_helper.c=</Transaction>
+    <Transaction>2017/10/23 19:21:07.000.078,D:\QQLogs\42634690\FileRecv\Projects\SOIL.c=</Transaction>
+    <Transaction>2017/10/23 19:21:07.000.091,D:\QQLogs\42634690\FileRecv\Projects\stb_image_aug.c=</Transaction>
+    <Transaction>2017/10/23 19:21:07.000.033,D:\QQLogs\42634690\FileRecv\Projects\image_DXT.c=</Transaction>
+    <Transaction>2017/10/24 10:50:22.000.420,=D:\QQLogs\42634690\FileRecv\Projects\Unit4.cpp</Transaction>
+    <Transaction>2017/10/24 11:32:52.000.345,D:\QQLogs\42634690\FileRecv\Projects\Unit4.cpp=</Transaction>
+    <Transaction>2017/10/25 14:32:54.000.487,=D:\QQLogs\42634690\FileRecv\Projects\Unit5.cpp</Transaction>
+    <Transaction>2017/10/25 14:33:42.000.378,D:\QQLogs\42634690\FileRecv\Projects\VersionDownloadForm.dfm=D:\QQLogs\42634690\FileRecv\Projects\Unit5.dfm</Transaction>
+    <Transaction>2017/10/25 14:33:42.000.378,D:\QQLogs\42634690\FileRecv\Projects\VersionDownloadForm.h=D:\QQLogs\42634690\FileRecv\Projects\Unit5.h</Transaction>
+    <Transaction>2017/10/25 14:33:42.000.378,D:\QQLogs\42634690\FileRecv\Projects\VersionDownloadForm.cpp=D:\QQLogs\42634690\FileRecv\Projects\Unit5.cpp</Transaction>
+    <Transaction>2017/10/26 14:05:44.000.146,D:\QQLogs\42634690\FileRecv\Projects\Project1PCH1.h=D:\QQLogs\42634690\FileRecv\Projects\MHZSLoginPCH1.h</Transaction>
+    <Transaction>2017/10/26 14:05:44.000.165,D:\QQLogs\42634690\FileRecv\Projects\Project1.cbproj=D:\QQLogs\42634690\FileRecv\Projects\MHZSLogin.cbproj</Transaction>
+    <Transaction>2017/11/02 19:43:38.000.731,=D:\QQLogs\42634690\FileRecv\Projects\Unit6.cpp</Transaction>
+    <Transaction>2017/11/09 16:38:56.000.282,=D:\QQLogs\42634690\FileRecv\Projects\Unit7.cpp</Transaction>
+    <Transaction>2017/11/09 17:21:22.000.486,D:\QQLogs\42634690\FileRecv\Projects\Unit7.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>
